@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jpalter
 - 👀 I am an oceanographer at the University of Rhode Island
-- 🌱 With wonderful collaborators, students, and postdocs, we study ocean circulation and biogoechemistry.
-- 💞️ I’m looking to collaborate on carbon uptake by the ocean, both before and after efforts to engineer Carbon Dioxide Removal. 
+-  :ocean: With wonderful collaborators, students, and postdocs, we study ocean circulation and biogoechemistry.
+- :dizzy: I’m looking to collaborate on ocean-atmosphere-climate interactions and carbon uptake by the ocean, both before and after efforts to engineer Carbon Dioxide Removal. 
 - 📫 Reach me by email or on Bluesky @jaimepalter.bsky.social.
 
 <!---
